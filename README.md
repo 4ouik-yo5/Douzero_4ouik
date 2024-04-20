@@ -1,4 +1,4 @@
-# Douzero5.7: 将DouZero用于欢乐斗地主自动化
+# Douzero_4ouik: 将DouZero用于欢乐斗地主自动化
 * 本项目基于[DouZero](https://github.com/kwai/DouZero) | [DouZero_For_Happy_DouDiZhu](https://github.com/tianqiraf/DouZero_For_HappyDouDiZhu) | [Douzero_Resnet_2.0](https://github.com/EdwardPooh/douzero-resnet-2.0) | [DouZero_For_HLDDZ_FullAuto](https://github.com/Vincentzyx/DouZero_For_HLDDZ_FullAuto)
 * * 感谢 girgle（马云）对新版欢乐斗地主进行了适配，现在仓库代码已支持新版欢乐斗地主。
 
